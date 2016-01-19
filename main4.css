@@ -1,0 +1,24 @@
+body {
+     margin: 0px;
+     padding: 0px;
+ }
+	.uno{
+		height: 200px;
+		width: 200px;
+		background: #ee3e64; 
+}
+	.dos{
+		height: 200px;
+		width: 200px;
+		background: #44accf;
+		margin-left: 200px;
+}
+	.tres{
+		height: 200px;
+		width: 200px;
+		background: #b7d84b;
+
+}
+.caja{
+	position: relative;
+}

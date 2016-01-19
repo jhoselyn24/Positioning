@@ -1,0 +1,36 @@
+body {
+     margin: 0px;
+     padding: 0px;
+ }
+	.uno{
+		height: 200px;
+		width: 200px;
+		background: #ee3e64; 
+		left: 0px;
+		top: 0px;
+	}
+	.dos{
+		height: 200px;
+		width: 200px;
+		background: #44accf;
+		right: 0px;
+		top: 0px;
+}
+	.tres{
+		height: 200px;
+		width: 200px;
+		background: #b7d84b;
+		left: 0px;
+		bottom: 0px;
+
+}
+    .cuatro{
+	    height: 200px;
+		width: 200px;
+		background: yellow;
+	    right: 0px;
+	    bottom: 0px;
+}
+.caja{
+	position: absolute;
+}
